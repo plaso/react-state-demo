@@ -1,0 +1,11 @@
+.Cart {
+  margin-top: 40px;
+}
+
+.Cart h1 {
+  color: red;
+}
+
+.Cart ul {
+  list-style: none;
+}
